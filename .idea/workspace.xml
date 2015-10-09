@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efa2df98-0061-470e-8b45-a13d7f6d372b" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Source-It\astetsurina\src\HomeTasks\SumCharacters.java" afterPath="$PROJECT_DIR$/src/HomeTasks/SumCharactersExecuter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/astetsurina/HomeTasks/DiscriminantExecuter.class" afterPath="$PROJECT_DIR$/out/production/astetsurina/HomeTasks/DiscriminantExecuter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/astetsurina/HomeTasks/FactorialExecuter.class" afterPath="$PROJECT_DIR$/out/production/astetsurina/HomeTasks/FactorialExecuter.class" />
-      <change type="MODIFICATION" beforePath="C:\Source-It\astetsurina\out\production\astetsurina\HomeTasks\MainTask.class" afterPath="C:\Source-It\astetsurina\out\production\astetsurina\HomeTasks\MainTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/astetsurina/HomeTasks/NearTo10Executer.class" afterPath="$PROJECT_DIR$/out/production/astetsurina/HomeTasks/NearTo10Executer.class" />
-      <change type="MODIFICATION" beforePath="C:\Source-It\astetsurina\out\production\astetsurina\HomeTasks\SumCharacters.class" afterPath="C:\Source-It\astetsurina\out\production\astetsurina\HomeTasks\SumCharacters.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/astetsurina/HomeTasks/TicketsExecuter.class" afterPath="$PROJECT_DIR$/out/production/astetsurina/HomeTasks/TicketsExecuter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HomeTasks/DiscriminantExecuter.java" afterPath="$PROJECT_DIR$/src/HomeTasks/DiscriminantExecuter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HomeTasks/FactorialExecuter.java" afterPath="$PROJECT_DIR$/src/HomeTasks/FactorialExecuter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HomeTasks/MainTask.java" afterPath="$PROJECT_DIR$/src/HomeTasks/MainTask.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HomeTasks/NearTo10Executer.java" afterPath="$PROJECT_DIR$/src/HomeTasks/NearTo10Executer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HomeTasks/TicketsExecuter.java" afterPath="$PROJECT_DIR$/src/HomeTasks/TicketsExecuter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="efa2df98-0061-470e-8b45-a13d7f6d372b" name="Default" comment="" />
     <ignored path="astetsurina.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -62,7 +48,7 @@
       <file leaf-file-name="ArrayAlphabeticSortingExecuter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HomeTasks/ArrayAlphabeticSortingExecuter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6859688">
+            <state vertical-scroll-proportion="0.5015432">
               <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
               <folding />
             </state>
@@ -149,6 +135,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -228,8 +216,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -433,32 +419,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28698224" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2943787" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297546" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39940828" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28698224" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2943787" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297546" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39940828" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -567,7 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1957" column="56" selection-start-line="1957" selection-start-column="48" selection-end-line="1957" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -575,7 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6567" column="55" selection-start-line="6566" selection-start-column="7" selection-end-line="6567" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -626,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6567" column="55" selection-start-line="6566" selection-start-column="7" selection-end-line="6567" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -634,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="639" column="39" selection-start-line="639" selection-start-column="39" selection-end-line="639" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,7 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="321" column="62" selection-start-line="321" selection-start-column="7" selection-end-line="321" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,7 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6567" column="55" selection-start-line="6566" selection-start-column="7" selection-end-line="6567" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -774,7 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3935185">
           <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -803,10 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.3714286">
           <caret line="327" column="15" selection-start-line="327" selection-start-column="15" selection-end-line="327" selection-end-column="15" />
-          <folding>
-            <element signature="e#11985#11986#0" expanded="false" />
-            <element signature="e#12016#12017#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -838,7 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.2873051">
           <caret line="34" column="22" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -895,7 +869,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HomeTasks/ArrayAlphabeticSortingExecuter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6859688">
+        <state vertical-scroll-proportion="0.5015432">
           <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
           <folding />
         </state>
