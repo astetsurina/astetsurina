@@ -3,10 +3,12 @@ package HomeTasks;
 /**
  * Created by Alien on 06-Oct-15.
  */
-public class SumCharacters {
+/*Для введённого пользователем с клавиатуры натурального числа посчитайте сумму всех его цифр (заранее не известно сколько цифр будет в числе).*/
+
+public class SumCharactersExecuter {
     int value;
 
-    public SumCharacters(int value) {
+    public SumCharactersExecuter(int value) {
         this.value = Math.abs(value);
     }
 

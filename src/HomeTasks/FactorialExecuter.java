@@ -3,6 +3,8 @@ package HomeTasks;
 /**
  * Created by Alien on 05-Oct-15.
  */
+/*—оздайте программу, вычисл€ющую факториал числа n, которое пользователь введЄт с клавиатуры.*/
+
 public class FactorialExecuter {
     long number;
 

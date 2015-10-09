@@ -5,6 +5,8 @@ import java.util.List;
 /**
  * Created by Alien on 05-Oct-15.
  */
+/*Создать программу, выводящую на экран ближайшее к 10 из двух чисел, записанных в переменные m и n. */
+
 public class NearTo10Executer {
     int firstNumber;
     int secondNumber;

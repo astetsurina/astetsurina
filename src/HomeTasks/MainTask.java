@@ -19,6 +19,11 @@ public class MainTask {
             System.out.println("3. Discriminant Executer");
             System.out.println("4. Sum Characters");
             System.out.println("5. Winner Tickets");
+            System.out.println("6. Echo Arrays");
+            System.out.println("7. Sort Array");
+            System.out.println("8. First Higher Element");
+            System.out.println("9. Random Digits Array");
+            System.out.println("10. Alphabetic Array Sorting");
 
             if (sc.hasNextInt()) {
                 int homeTaskNumber = sc.nextInt();
@@ -51,6 +56,32 @@ public class MainTask {
                         int result = 0;
                         TicketsExecuter executer = new TicketsExecuter();
                         System.out.println(executer.getResult());
+                        break;
+                    case 6:
+                        EchoArrayExecuter executer1 = new EchoArrayExecuter();
+                        System.out.println(executer1.getResult());
+                        break;
+                    case 7:
+                        ArraySortingExecuter executer2 = new ArraySortingExecuter();
+                        System.out.println(executer2.getResult());
+                        break;
+                    case 8:
+                        FirstHigherElementInArrayExecuter executer3 = new FirstHigherElementInArrayExecuter();
+                        System.out.println(executer3.getResult());
+                        break;
+                    case 9:
+                        System.out.println("Result for random array : ");
+                        RandomDigitsArrayExecuter executer4 = new RandomDigitsArrayExecuter();
+                        System.out.println(executer4.getResult());
+
+                        System.out.println("Result for predefined array : ");
+                        int[] predefinedArrayVariable = new int[] {6, 10, 20, 31};
+                        executer4 = new RandomDigitsArrayExecuter(predefinedArrayVariable);
+                        System.out.println(executer4.getResult());
+                        break;
+                    case 10:
+                        ArrayAlphabeticSortingExecuter executer5 = new ArrayAlphabeticSortingExecuter();
+                        System.out.println(executer5.getResult());
                         break;
                     default:
                         System.out.print("There is no any task with such number.");
@@ -135,7 +166,7 @@ public class MainTask {
 
         if(sc.hasNextInt()) {
             int i = sc.nextInt();
-            SumCharacters executer = new SumCharacters(i);
+            SumCharactersExecuter executer = new SumCharactersExecuter(i);
             System.out.println(executer.getResult());
         }else {
             System.out.println("You have entered a wrong number.");

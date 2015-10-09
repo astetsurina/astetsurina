@@ -3,6 +3,8 @@ package HomeTasks;
 /**
  * Created by Alien on 06-Oct-15.
  */
+/* ¬ три переменные a, b и c записаны три вещественных числа. —оздать программу, котора€ будет находить и выводить на экран вещественные корни квадратного уравнени€ ax?+bx+c=0, либо сообщать, что корней нет.*/
+
 public class DiscriminantExecuter {
     double a;
     double b;
