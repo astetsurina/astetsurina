@@ -24,6 +24,8 @@ public class MainTask {
             System.out.println("8. First Higher Element");
             System.out.println("9. Random Digits Array");
             System.out.println("10. Alphabetic Array Sorting");
+            System.out.println("11. Compare Collections Executer");
+            System.out.println("12. Collection Performance");
 
             if (sc.hasNextInt()) {
                 int homeTaskNumber = sc.nextInt();
@@ -85,6 +87,18 @@ public class MainTask {
                         break;
                     default:
                         System.out.print("There is no any task with such number.");
+                        break;
+                    case 11:
+                        CompareCollectionsExecuter executer6 = new CompareCollectionsExecuter();
+                        System.out.println(executer6.getResult());
+                        break;
+                    case 12:
+                        CollectionPerformanceExecuter executer7 = new CollectionPerformanceExecuter();
+                        System.out.println(executer7.getResult());
+                        break;
+                    case 13:
+                        SortingEnumExecuter executer8 = new SortingEnumExecuter();
+                        System.out.println(executer8.getResult());
                         break;
                 }
             } else {
